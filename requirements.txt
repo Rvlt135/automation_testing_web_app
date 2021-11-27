@@ -1,0 +1,7 @@
+psycopg2-binary
+pytest
+selenium
+allure-pytest
+requests
+pytest-html
+pytest-failed-screenshot
